@@ -1,13 +1,13 @@
     #card {
-        margin: 8%;
+        margin: 5%;
         position: absolute;
         height: auto;
         width: 350px;
         border-radius: 10px;
         background-color: white;
-        background-image: url("https://image.freepik.com/free-vector/open-gift-box-with-heart-shape-confetti-burst-explosion-3d-valentines-day-romantic-gift_165143-438.jpg");
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLmgMQ6oN1QjKpyswiA3BYrif5KJXAhm6njAzvytnkmg&s");
         background-size: 50vh, 70vh;
-        box-shadow: 0px 0px 20px red;
+        box-shadow: 0px 0px 20px deepskyblue;
         transform: rotate(5deg);
         top: 0px;
         opacity: 0;
@@ -19,7 +19,7 @@
         padding: 5%;
         display: block;
         border-radius: 50%;
-        box-shadow: 0 4px 8px 0 red;
+        box-shadow: 0 4px 8px 0 deepskyblue;
         width: 100px;
         height: 100px;
         object-fit: cover;
